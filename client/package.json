@@ -1,1 +1,16 @@
-<html><body><h1>Η ΓΝΩΣΗ ΕΙΝΑΙ ΝΙΚΗ</h1></body></html>
+{
+  "name": "quiz-client",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
